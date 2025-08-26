@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="CSS/style.css">
 </head>
 
 <body>
@@ -24,7 +25,7 @@
                     </div>
                     <button type="submit" class="btn btn-dark w-100 mb-3 mt-1">Confirmar</button>
                     <div class="col-12 d-flex justify-content-between">
-                        <p class="text-center"><a class="link-opacity-75 link-opacity-100-hover link-dark" href="confir-senha.php">Alterar senha</a></p>
+                        <p class="text-center"><a class="link-opacity-75 link-opacity-100-hover link-dark" href="alt-senha.php">Alterar senha</a></p>
                         <p class="text-end"><a class="link-opacity-75 link-opacity-100-hover link-dark" href="cadastrar.php">Cadastrar</a></p>
                     </div>
                 </form>
