@@ -4,4 +4,3 @@ Front-End: HTML/CSS/JavaScript |
 Back-End: PHP |
 Banco de Dados: MySQL |
 Editor de código: Visual Studio Code
-TANANANNANANANNAN
