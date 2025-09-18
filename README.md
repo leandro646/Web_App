@@ -1,8 +1,8 @@
 # Web_App
-Leandro Henrique Silva Jardim
+Leandro Henrique Silva Jardim\
 \
 Projeto de Autenticação de Usuários/
-Validar senha | Bloqeuar acesso | Contagem de acesso ao sistema | Trocar senha no 1º acesso
+Validar senha | Bloqeuar acesso | Contagem de acesso ao sistema | Trocar senha no 1º acesso\
 \
 3ª Série de Desenvolvimento de Sistemas | E. E. Prof. Joaquim de Moura Candelária\
 Front-End: HTML/CSS/JavaScript\
