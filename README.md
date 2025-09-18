@@ -5,4 +5,6 @@ Projeto de Autenticação de Usuários\
 Front-End: HTML/CSS/JavaScript\
 Back-End: PHP\
 Banco de Dados: MySQL\
-Editor de código: Visual Studio Code
+Editor de código: Visual Studio Code\
+\
+Validar senha | Bloqeuar acesso | Contagem de acesso ao sistema | Trocar senha no 1º acesso
